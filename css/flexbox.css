@@ -50,3 +50,34 @@
 .rodapePrincipal-contatoForm-fieldset {
   display: flex;
 }
+
+.rodapePrincipal-navMap-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.rodapePrincipal-navMap-list {
+    display: flex;
+    flex-direction: column;
+    height: 260px;
+}
+
+.rodapePrincipal-navMap-list {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 260px;
+}
+
+.conteudoPrincipal-cursos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.conteudoPrincipal-cursos-link {
+    width: 20%;
+    margin-bottom: 1%;
+}
+
+
