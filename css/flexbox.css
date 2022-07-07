@@ -1,8 +1,52 @@
-.cabecalhoPrincipal .container{
+.cabecalhoPrincipal .container {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
-.cabecalhoPrincipal-nav{
+.cabecalhoPrincipal-nav {
+  display: flex;
+}
+
+.rodapePrincipal-patrocinadores .container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.rodapePrincipal-patrocinadores-list {
+  display: flex;
+}
+
+.rodapePrincipal-patrocinadores-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.rodapePrincipal-patrocinadores-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 75%;
+}
+.rodapePrincipal-contatoForm {
+  width: 25%;
+}
+.rodapePrincipal-patrocinadores-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 70%;
+  margin-right: 5%;
+}
+
+.rodapePrincipal-patrocinadores-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 70%;
+  margin-right: 5%;
+}
+
+.rodapePrincipal-contatoForm-fieldset {
   display: flex;
 }
